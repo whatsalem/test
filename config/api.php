@@ -70,7 +70,7 @@ return [
     |
     */
 
-    'domain' => env('API_DOMAIN', 'https://bansachonline.herokuapp.com'),
+    'domain' => env('API_DOMAIN', null),
 
     /*
     |--------------------------------------------------------------------------
